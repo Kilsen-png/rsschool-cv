@@ -1,3 +1,4 @@
+![](D:\IT\gallery.jpg)
 # __Dzmitry Smiahlikau__
 
 ## CONTACT INFORMATION
