@@ -15,8 +15,11 @@
 - No programming experience
 
 ## **PROOJECT**
-* [cv](https://github.com/Kilsen-png/rsschool-cv/blob/gh-pages/cv.md)
+- [cv](https://github.com/Kilsen-png/rsschool-cv/blob/gh-pages/cv.md)
 
 ## **EDUCATION**
-* I did not study in the IT field
+- I did not study in the IT field
  
+ ## **LANGUAGE**
+- English - I just started learning the language
+- Russian, Belarusian - Native
